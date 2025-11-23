@@ -1,0 +1,15 @@
+{
+    "name": "Nature's Compass",
+    "icon": "naturescompass:naturescompass",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Nature’s Compass lets you search for and view info about any biome in the world. Right-click to open the biome selection GUI. Shift-right-click resets the compass. When not pointing at a biome, it points to world spawn. Works with all biomes, and settings like blacklist and search distance can be configured."
+        },
+		{
+			"type": "patchouli:crafting",
+			"recipe": "naturescompass:natures_compass"
+		}
+    ]
+}

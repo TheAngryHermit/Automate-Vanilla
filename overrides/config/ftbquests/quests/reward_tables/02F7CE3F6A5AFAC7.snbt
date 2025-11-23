@@ -1,0 +1,95 @@
+{
+	id: "02F7CE3F6A5AFAC7"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{
+			count: 16
+			id: "686D3E088D034221"
+			item: {
+				count: 1
+				id: "minecraft:oak_leaves"
+			}
+		}
+		{
+			count: 16
+			id: "01AE5A525D30EEF9"
+			item: {
+				count: 1
+				id: "minecraft:spruce_leaves"
+			}
+		}
+		{
+			count: 16
+			id: "1876873A9B72AFC4"
+			item: {
+				count: 1
+				id: "minecraft:birch_leaves"
+			}
+		}
+		{
+			count: 16
+			id: "75D9ED06FCE104A2"
+			item: {
+				count: 1
+				id: "minecraft:jungle_leaves"
+			}
+		}
+		{
+			count: 16
+			id: "78AC6D11F618811B"
+			item: {
+				count: 1
+				id: "minecraft:acacia_leaves"
+			}
+		}
+		{
+			count: 16
+			id: "76C81FAC055B3B8A"
+			item: {
+				count: 1
+				id: "minecraft:dark_oak_leaves"
+			}
+		}
+		{
+			count: 16
+			id: "69E2AE9833EA5CFC"
+			item: {
+				count: 1
+				id: "minecraft:mangrove_leaves"
+			}
+		}
+		{
+			count: 16
+			id: "39704ECD50DD0854"
+			item: {
+				count: 1
+				id: "minecraft:cherry_leaves"
+			}
+		}
+		{
+			count: 16
+			id: "271D9E289408D752"
+			item: {
+				count: 1
+				id: "vanillabackport:pale_oak_leaves"
+			}
+		}
+		{
+			count: 16
+			id: "0779210218E66481"
+			item: {
+				count: 1
+				id: "minecraft:azalea_leaves"
+			}
+		}
+		{
+			count: 16
+			id: "145ED829525364AC"
+			item: {
+				count: 1
+				id: "minecraft:flowering_azalea_leaves"
+			}
+		}
+	]
+}

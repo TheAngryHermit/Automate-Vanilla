@@ -1,0 +1,11 @@
+{
+    "name": "Appleskin",
+    "icon": "minecraft:apple",
+    "category": "patchouli:foodstuffs",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This mod improves the food HUD by showing hunger, saturation, and exhaustion info. It adds food values to tooltips, visualizes saturation and exhaustion on the HUD, and shows potential hunger and health restored while holding food. It also syncs these values from the server for accuracy and adds them to the debug overlay (F3)."
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Ok Zoomer",
+    "icon": "minecraft:spyglass",
+    "category": "patchouli:misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This zoom mod is fast, lightweight, configurable, and packed with presets. It introduced smooth zoom transitions and continues to add new features. The default zoom key is C, giving a clean view perfect for screenshots, but settings can be customized to your liking."
+        }
+    ]
+}

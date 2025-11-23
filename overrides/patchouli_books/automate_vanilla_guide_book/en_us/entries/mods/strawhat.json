@@ -1,0 +1,15 @@
+{
+    "name": "Luffy's Straw Hat",
+    "icon": "luffys_straw_hat:luffy_armor_helmet",
+    "category": "patchouli:misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This mod adds Luffy’s Straw Hat, which you can craft and wear in survival. The hat grants extra strength and speed, with One Piece sound effects and particles. Perfect for roleplay, survival, or just for fun."
+        },
+		{
+			"type": "patchouli:crafting",
+			"recipe": "luffys_straw_hat:luffy_armor_helmet_recipe"
+		}
+    ]
+}

@@ -1,0 +1,35 @@
+{
+	icon: {
+		id: "minecraft:coal"
+	}
+	id: "3FA2CF79A009D296"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		string_id: "coal_charcoal"
+	}
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 16
+			id: "2E6497E63C246367"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+		}
+		{
+			count: 16
+			id: "627A7F62E0FCD2C6"
+			item: {
+				count: 1
+				id: "minecraft:charcoal"
+			}
+		}
+	]
+}

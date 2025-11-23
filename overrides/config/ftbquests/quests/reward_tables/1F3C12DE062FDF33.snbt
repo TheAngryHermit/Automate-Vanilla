@@ -1,0 +1,38 @@
+{
+	id: "1F3C12DE062FDF33"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{
+			id: "06BA7449D4467AC9"
+			item: {
+				count: 1
+				id: "minted:iron_coin"
+			}
+			weight: 0.1f
+		}
+		{
+			id: "2A6D6014B14D1021"
+			item: {
+				count: 1
+				id: "minted:gold_coin"
+			}
+			weight: 0.05f
+		}
+		{
+			id: "0E167442B4FBCA94"
+			item: {
+				count: 1
+				id: "minted:netherite_coin"
+			}
+			weight: 1.0E-6f
+		}
+		{
+			auto: "no_toast"
+			id: "41C52F82274F09B5"
+			type: "xp"
+			weight: 0.99f
+			xp: 500
+		}
+	]
+}

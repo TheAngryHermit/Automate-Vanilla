@@ -1,0 +1,11 @@
+{
+    "name": "Amendments",
+    "icon": "minecraft:lantern",
+    "category": "patchouli:misc",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Amendments is a configurable mod that improves vanilla blocks by adding functionality and visual tweaks without new items. It replaces Carpeted Stairs, Better Lilypads, Better Jukeboxes, and some Supplementaries features. Key features include cauldron potion mixing, wall lanterns with holding animation, skull piles, candle skulls, and a better lectern GUI."
+        }
+    ]
+}

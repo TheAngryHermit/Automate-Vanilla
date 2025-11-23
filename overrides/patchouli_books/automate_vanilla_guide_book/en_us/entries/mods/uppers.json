@@ -1,0 +1,15 @@
+{
+    "name": "Uppers",
+    "icon": "uppers:upper",
+    "category": "patchouli:utilities",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Uppers is a utility mod adding Hoppers that move items upward instead of down. They transfer items from chests below to inventories above and can pick up items one block below. They work like regular Hoppers, support redstone, and combine with vanilla piping systems for new possibilities."
+        },
+		{
+			"type": "patchouli:crafting",
+			"recipe": "uppers:upper"
+		}
+    ]
+}

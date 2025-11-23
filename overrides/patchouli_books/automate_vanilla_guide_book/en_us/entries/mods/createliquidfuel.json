@@ -1,0 +1,11 @@
+{
+    "name": "Create Liquid Fuel",
+    "icon": "create:blaze_burner",
+    "category": "patchouli:utilities",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This mod adds one feature: it lets you put fluid fuels into blaze burners."
+        }
+    ]
+}
