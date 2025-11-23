@@ -1,0 +1,15 @@
+{
+    "name": "Exposure",
+    "icon": "exposure:camera",
+    "category": "patchouli:utilities",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Exposure adds a working camera to Minecraft. Take photos with film or instant cameras, use different film types, and attach flash, zoom, and filters. You can develop, print, and frame photos for in-game display and storytelling."
+        },
+		{
+			"type": "patchouli:crafting",
+			"recipe": "exposure:camera"
+		}
+    ]
+}

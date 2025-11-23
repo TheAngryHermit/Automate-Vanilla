@@ -1,0 +1,39 @@
+{
+	id: "61DF285FB36A4E10"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			count: 16
+			id: "0A2D6757611F48CC"
+			item: {
+				count: 1
+				id: "minecraft:wheat_seeds"
+			}
+		}
+		{
+			count: 16
+			id: "05897A77E625DDDD"
+			item: {
+				count: 1
+				id: "minecraft:beetroot_seeds"
+			}
+		}
+		{
+			count: 16
+			id: "562A64008845E8C6"
+			item: {
+				count: 1
+				id: "farmersdelight:tomato_seeds"
+			}
+		}
+		{
+			count: 16
+			id: "437BD6760A31DF31"
+			item: {
+				count: 1
+				id: "farmersdelight:cabbage_seeds"
+			}
+		}
+	]
+}

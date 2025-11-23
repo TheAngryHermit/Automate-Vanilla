@@ -1,0 +1,23 @@
+{
+	id: "717BB926453583AD"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{ id: "3F461590CB4F9D63", item: { count: 1, id: "create:white_toolbox" } }
+		{ id: "39316A6221826082", item: { count: 1, id: "create:orange_toolbox" } }
+		{ id: "46F952F90A98BA75", item: { count: 1, id: "create:magenta_toolbox" } }
+		{ id: "446A0BAA5D55E13B", item: { count: 1, id: "create:yellow_toolbox" } }
+		{ id: "4720CF5B27AAB995", item: { count: 1, id: "create:light_blue_toolbox" } }
+		{ id: "313703E088ADEDE3", item: { count: 1, id: "create:lime_toolbox" } }
+		{ id: "708D2719CB40F68B", item: { count: 1, id: "create:pink_toolbox" } }
+		{ id: "2E82C33EE6308786", item: { count: 1, id: "create:gray_toolbox" } }
+		{ id: "53F9A21BDCD20C3B", item: { count: 1, id: "create:light_gray_toolbox" } }
+		{ id: "6C2C5FE1DA07BC83", item: { count: 1, id: "create:cyan_toolbox" } }
+		{ id: "31D97C77D1E21CE7", item: { count: 1, id: "create:purple_toolbox" } }
+		{ id: "7C60C995FB72CD0A", item: { count: 1, id: "create:blue_toolbox" } }
+		{ id: "4AE211CFFEE9B2DC", item: { count: 1, id: "create:brown_toolbox" } }
+		{ id: "32B187AD51639217", item: { count: 1, id: "create:green_toolbox" } }
+		{ id: "30B4650E87F2148F", item: { count: 1, id: "create:red_toolbox" } }
+		{ id: "238DC414DA44B93A", item: { count: 1, id: "create:black_toolbox" } }
+	]
+}

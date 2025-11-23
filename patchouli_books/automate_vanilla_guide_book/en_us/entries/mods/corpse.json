@@ -1,0 +1,11 @@
+{
+    "name": "Corpse",
+    "icon": "minecraft:player_head",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "This mod spawns a corpse at your death spot holding all your items. Right-click it to get your gear back. The corpse won’t burn or fall away and disappears when empty. Press ‘U’ to see your death history and recover items in creative mode. Operators can view others’ deaths with /deathhistory."
+        }
+    ]
+}

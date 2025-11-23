@@ -1,0 +1,153 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "6lnchapter_guide"
+	group: ""
+	icon: {
+		id: "minecraft:writable_book"
+	}
+	id: "04CAC33D56BD6253"
+	images: [{
+		height: 1.25d
+		image: "kubejs:textures/quests/chapter_guide_title.png"
+		rotation: 0.0d
+		width: 8.0d
+		x: 0.0d
+		y: -2.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["3F3DC93E96AE4878"]
+			hide_until_deps_complete: true
+			icon: {
+				components: {
+					"ftbquests:icon": "ftblibrary:icons/info"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3AB58CBCB5D142F1"
+			size: 1.0d
+			tasks: [{
+				id: "66CA9531D18A35FB"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3AB58CBCB5D142F1"]
+			hide_details_until_startable: true
+			hide_until_deps_visible: true
+			icon: {
+				id: "minecraft:oak_log"
+			}
+			id: "7AB976F698748CF5"
+			rewards: [
+				{
+					id: "374B6E631F8730B8"
+					item: {
+						count: 1
+						id: "minecraft:potato"
+					}
+					type: "item"
+				}
+				{
+					id: "4DD33D6F9DB5A113"
+					item: {
+						count: 1
+						id: "create:builders_tea"
+					}
+					type: "item"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				id: "2EF981C9AC3F09EF"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"256AA4EA7BCCF52F"
+				"7AB976F698748CF5"
+			]
+			hide_details_until_startable: true
+			icon: {
+				id: "create:deployer"
+			}
+			id: "1E51BC91569992E3"
+			rewards: [{
+				id: "68CE9662DB20C01C"
+				item: {
+					count: 1
+					id: "create:builders_tea"
+				}
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "7B0CD49560D957DD"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"28E9F07534C5116C"
+				"1E51BC91569992E3"
+			]
+			hide_details_until_startable: true
+			icon: {
+				id: "create:factory_gauge"
+			}
+			id: "6B0C18D222E4753D"
+			rewards: [{
+				id: "38FCB851B3EE40B2"
+				item: {
+					count: 1
+					id: "create:builders_tea"
+				}
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "20C4C7A999BA22A4"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6B0C18D222E4753D"
+				"6167538134F872D3"
+			]
+			hide_details_until_startable: true
+			icon: {
+				id: "kubejs:shadow_radiance"
+			}
+			id: "2C54545A18598E22"
+			rewards: [{
+				id: "7E0607A8FC0D2FDC"
+				item: {
+					count: 1
+					id: "create:builders_tea"
+				}
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				id: "1C0EAE0D9326E7EE"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+	]
+}

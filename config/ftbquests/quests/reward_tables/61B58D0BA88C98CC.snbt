@@ -1,0 +1,79 @@
+{
+	id: "61B58D0BA88C98CC"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{
+			count: 8
+			id: "3B6457B8AB097959"
+			item: {
+				count: 1
+				id: "minecraft:oak_planks"
+			}
+		}
+		{
+			count: 8
+			id: "3010C58DD6E4E8D5"
+			item: {
+				count: 1
+				id: "minecraft:spruce_planks"
+			}
+		}
+		{
+			count: 8
+			id: "28560D46882D421D"
+			item: {
+				count: 1
+				id: "minecraft:birch_planks"
+			}
+		}
+		{
+			count: 8
+			id: "3F043FB58B997174"
+			item: {
+				count: 1
+				id: "minecraft:jungle_planks"
+			}
+		}
+		{
+			count: 8
+			id: "4E79031564097EB2"
+			item: {
+				count: 1
+				id: "minecraft:acacia_planks"
+			}
+		}
+		{
+			count: 8
+			id: "656E4516C79811BF"
+			item: {
+				count: 1
+				id: "minecraft:dark_oak_planks"
+			}
+		}
+		{
+			count: 8
+			id: "3EDB247F9582368A"
+			item: {
+				count: 1
+				id: "minecraft:mangrove_planks"
+			}
+		}
+		{
+			count: 8
+			id: "0FE4714F04D2F948"
+			item: {
+				count: 1
+				id: "minecraft:cherry_planks"
+			}
+		}
+		{
+			count: 8
+			id: "6887FEB72E05302F"
+			item: {
+				count: 1
+				id: "vanillabackport:pale_oak_planks"
+			}
+		}
+	]
+}

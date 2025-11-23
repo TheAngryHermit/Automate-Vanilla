@@ -1,0 +1,15 @@
+{
+    "name": "Explorer's Compass",
+    "icon": "explorerscompass:explorerscompass",
+    "category": "patchouli:exploration",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Explorer’s Compass helps you find structures anywhere in the world. Right-click to open a GUI and select structures to search for. Shift-right-click resets it. Search info shows on the HUD. When not pointing at a structure, it points to world spawn. Settings like search radius and blacklist can be configured. Works with all vanilla and modded structures."
+        },
+		{
+			"type": "patchouli:crafting",
+			"recipe": "explorerscompass:explorers_compass"
+		}
+    ]
+}
